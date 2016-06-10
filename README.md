@@ -48,3 +48,7 @@ https://jsbin.com/puzarakubu/1/edit?css,output
 ### With a fix
 
 https://jsbin.com/finususote/edit?css,output
+
+## Chromium bug
+
+https://bugs.chromium.org/p/chromium/issues/detail?id=619078
