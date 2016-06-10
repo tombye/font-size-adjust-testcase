@@ -24,3 +24,13 @@ https://github.com/tombye/font-size-adjust-testcase/commit/0c04c32727eaac922e3ce
 This makes the child `<div>`s of the `.footer-meta` element go out of alignment.
 
 I think it’s because `font-size-adjust` is changing how flow content is laid out in the `.footer-meta` element, which has its child `<div>` elements set to `display: inline-block`. This is based on the fact that setting `font-size-adjust: none` on the `.footer-meta` element fixes it.
+
+## See the bug
+
+https://font-size-adjust-testcase.herokuapp.com/
+
+## See it with the fix
+
+https://font-size-adjust-testcase-fix.herokuapp.com/
+
+(You'll need credentials to view it, email me for them.)
